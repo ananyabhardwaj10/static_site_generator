@@ -1,0 +1,1 @@
+python3 src/main.py "/ananyabhardwaj10/static_site_generator/"
